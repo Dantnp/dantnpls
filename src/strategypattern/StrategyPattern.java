@@ -25,6 +25,6 @@ public class StrategyPattern {
          contx.publishComp(Text);
     //hello
    
-    
+    //hello2
 }
 }
