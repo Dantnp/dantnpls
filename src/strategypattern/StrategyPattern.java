@@ -6,7 +6,7 @@
 package strategypattern;
 
 /**
- *
+ *jhsafbjhasbckja,hsccbaj,hfsbcajshhkjb
  * @author mimak0s
  */
 public class StrategyPattern {
